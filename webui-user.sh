@@ -39,7 +39,8 @@
 #export CODEFORMER_COMMIT_HASH=""
 #export BLIP_COMMIT_HASH=""
 
-# Uncomment to enable accelerated launch
+# Uncomment to enable accelerated l
+aunch
 #export ACCELERATE="True"
 
 # Uncomment to disable TCMalloc
